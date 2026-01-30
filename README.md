@@ -4,7 +4,7 @@ This project analyzes Teleperformance operator records to rank them based on Key
 PROJECT OBJETIVE: Create and analyze agent performance metrics to identify top-performing and underperforming agents. <br>
 
 FILES DESCRIPTION:
-01_INFO__DataDescription.pdf: Describes the content of the original dataset.
-02_Jupyter_CallMeMaybe.ipynb: Jupyter Notebook containing the Python code used to process the data.
-03_Report_CallMeMaybe.pdf: Report that summarizes, interprets, and presents the analysis results.
-04_Operator_metrics.xlsx: File created to present the Key Performance Indicators for each operator.
+01_INFO__DataDescription.pdf: Describes the content of the original dataset. <br>
+02_Jupyter_CallMeMaybe.ipynb: Jupyter Notebook containing the Python code used to process the data.<br>
+03_Report_CallMeMaybe.pdf: Report that summarizes, interprets, and presents the analysis results.<br>
+04_Operator_metrics.xlsx: File created to present the Key Performance Indicators for each operator.<br>
